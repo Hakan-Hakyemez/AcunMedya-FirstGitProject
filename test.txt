@@ -5,3 +5,4 @@ Değişiklik 3
 Değişiklik 4 test branchi içinde.
 
 Conflit değişikliği -1 
+Conflit değişikliği -2
